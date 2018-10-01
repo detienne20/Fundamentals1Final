@@ -1,5 +1,5 @@
 # Fundamentals1Final
-                          CLASS FINAL PROJECT Spring 2017 
+                                      CLASS FINAL PROJECT Spring 2017 
 
 
 Prompt: https://docs.google.com/document/d/1BebB0PDRvFjU1gZtio2-A3XG70qZkAxoNzU2U0Y8ClQ/pub
